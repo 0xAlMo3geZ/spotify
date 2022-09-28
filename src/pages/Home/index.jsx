@@ -4,7 +4,7 @@ import styles from "./styles.module.scss";
 import playlistImg from "../../images/rock.jpg";
 
 const playlists = [
-	{ _id: 1, img: playlistImg, name: "Today's Top Songs", desc: "By Jahangeer" },
+	{ _id: 1, img: playlistImg, name: "Today's Top Songs", desc: "By Muzak" },
 ];
 
 const Home = () => {
